@@ -1,8 +1,10 @@
-streamlit==1.29.0
-tensorflow-cpu==2.14.0
-pandas
+streamlit
+tensorflow
+keras
 numpy
+pandas
 Pillow
+scikit-learn
+opencv-python-headless
 openpyxl
-
-
+rich
