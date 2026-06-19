@@ -20,7 +20,7 @@ Keras
 Streamlit
 OpenCV
 NumPy
-Pillow
+
 
 #### Dataset Details
 Recycling Companies Dataset (companies.xlsx)
